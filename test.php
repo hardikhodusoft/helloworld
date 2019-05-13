@@ -1,1 +1,3 @@
-Test file 1
+<?php 
+echo "Hello World";
+?>
